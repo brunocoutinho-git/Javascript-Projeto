@@ -1,7 +1,6 @@
 # Projeto de Cardápio
 ALUNO: Bruno Mateus de Oliveira Coutinho
 
-DESCRIÇÃO:aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+DESCRIÇÃO: ---
 
-INSTRUÇÕES DE EXECUÇÃO:
+INSTRUÇÕES DE EXECUÇÃO: ---
