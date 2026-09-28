@@ -9,7 +9,7 @@ Interface: Desenvolver a tela inicial e o cardápio.
 
 Programação: Implementar pesquisa, carrinho e cálculo dos valores.
 
-Testes: Cerificar a navegação e o funcionamento das funcionalidades.
+Testes: Verificar a navegação e o funcionamento das funcionalidades.
 
 Apresentação: Demonstrar o aplicativo e explicar os principais componentes do código.6. Critérios de avaliação
 
